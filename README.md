@@ -1,4 +1,4 @@
-## This is the Squeletton trial version
+## This is the back-end version.
 ### Link here for the Graph dependent version
 https://github.com/Bergenheiser/ticket_ride_to_europe_Graph_Theory
 ### Link here for the GUI version written in JavaFX
