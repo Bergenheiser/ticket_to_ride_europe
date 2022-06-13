@@ -1,6 +1,8 @@
-*** This is the Squeletton trial version ***
-*** Link here for the Graph dependent version ***
+## This is the Squeletton trial version
+### Link here for the Graph dependent version
+https://github.com/Bergenheiser/ticket_ride_to_europe_Graph_Theory
+### Link here for the GUI version written in JavaFX
+https://github.com/Bergenheiser/JavaFX_ticket_ride_to_europe
 
-*** Link here for the GUI version ***
-https://github.com/Bergenheiser/IHM
-As of June 2022 i have not combined all versions into one functional app. Will come soon...
+
+ALL individual and currently indepedent modules are expected to be merged into a single fully functionnal app soon.
