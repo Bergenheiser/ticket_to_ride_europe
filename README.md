@@ -5,4 +5,4 @@ https://github.com/Bergenheiser/ticket_ride_to_europe_Graph_Theory
 https://github.com/Bergenheiser/JavaFX_ticket_ride_to_europe
 
 
-ALL individual and currently indepedent modules are expected to be merged into a single fully functionnal app soon.
+All individual and currently indepedent modules are expected to be merged into a single fully functionnal app soon.
